@@ -1,5 +1,5 @@
 # Summary
 
 * [Introduction](README.md)
-* Learn It
+* [Learn It](learn-it/learn-it.md)
 
