@@ -1,5 +1,5 @@
 # Summary
 
 * [Introduction](README.md)
-* Build It
+* [Build It](built-it/deploy.md)
 
