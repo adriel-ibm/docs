@@ -7,7 +7,7 @@
     * [Success Stories]()
   * [Practical Learning]()
     * [Create 101](learn-it/create-101.md)
-* [Build It]()
+* [Build It](learn-it/markdown-convert.md)
   * [Build My First App]()
     * [Intro to Model]()
   * [Create a C]()
